@@ -1,1 +1,1 @@
-# Design-Patter-for-iOS
+# Design-Patterns-for-iOS
